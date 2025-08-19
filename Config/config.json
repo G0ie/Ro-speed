@@ -1,7 +1,7 @@
 {
     "performance": {
-        "process": 2,
-        "threads": 400
+        "process": 4,
+        "threads": 800
     },
     "request": {
         "module": "socket",
